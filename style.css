@@ -82,9 +82,7 @@ a.active::after {
 
 .card-container {
   display: grid;
-  /* There will be 3 columns, each 200px wide */
   grid-template-columns: 200px 200px 200px;
-  /* There will be 2 rows, each 250px high */
   grid-template-rows: 250px 250px;
   justify-content: center;
   grid-gap: 1em;
